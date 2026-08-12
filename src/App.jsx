@@ -13,7 +13,7 @@ import InfoDetail from "./pages/infoDetail";
 //app
 function App(){
   return(
-    <BrowserRouter>
+    <>
       <Header></Header>
       <Sidebar></Sidebar>
       <Routes>
@@ -25,7 +25,8 @@ function App(){
         <Route path="/sketch/:charId" element={<SketchDetail/>}/>
         <Route path="/lore/:loreId" element={<LoreDetail/>}/>
       </Routes>
-    </BrowserRouter>
+    </>
+  
   )
 }
 export default App
