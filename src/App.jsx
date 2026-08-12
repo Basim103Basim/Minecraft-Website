@@ -13,7 +13,7 @@ import InfoDetail from "./pages/infoDetail";
 //app
 function App(){
   return(
-    <BrowserRouter basename="/Minecraft-Website">
+    <BrowserRouter>
       <Header></Header>
       <Sidebar></Sidebar>
       <Routes>
