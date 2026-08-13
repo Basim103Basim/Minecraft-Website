@@ -423,7 +423,7 @@ header p{
   border-radius: 10px;
   padding: 0;
   height: 50%;
-  width: 50%;
+  width: 70%;
   display: flex;
   transition: transform 0.8s 0.1s;
 }
@@ -468,14 +468,14 @@ header p{
 }
 #sketch-main a{
   text-decoration: none;
-  height: 80%;
-  width: 30%;
   justify-self: center;
+  height: 70vh;
+  width: 70vw;
   margin-bottom: 7vh;
 }
 .charachter-box{
-  height: 50vh;
-  width: 80vw;
+  height: 100%;
+  width: 100%;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
