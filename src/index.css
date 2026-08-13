@@ -67,6 +67,7 @@ header{
 }
 header h1{
   font-size: 2.5rem;
+  text-align: center;
 }
 /*header end*/
 /*sidebar start*/
@@ -245,6 +246,7 @@ header h1{
 }
 .lore-box h1{
   font-size: 2.5rem;
+  text-align: center;
 }
 .lore-box p{
   font-size: 0.8rem;
@@ -306,6 +308,9 @@ header h1{
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+.info-box h1{
+  text-align: center;
 }
 .info-box:hover{
   transform: scale(1.05);
