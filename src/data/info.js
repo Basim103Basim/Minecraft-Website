@@ -1,5 +1,5 @@
-import ironFarm from "../assets/iron farm.jfif"
-import castle from "../assets/castle.jfif"
+import ironFarm from "../assets/iron farm.png"
+import castle from "../assets/castle.png"
 
 const info = [
 
@@ -9,6 +9,8 @@ const info = [
         maker: "Taha",
         name: "Iron Farm",
         location: "Main Island",
+        used:"Iron source",
+        inside:"Haraamda the Zombie Supervisor, The Three Enslaved Villagers",
 
         paragraphs: [
             `Among the earliest works of the growing kingdom, few proved as valuable as the Iron Farm. It was Taha who raised it, for he had taken upon himself the mantle of Engineer. In the world that came before, it had been Basim who built such a machine. But in this new age, the work belonged to Taha, and its creation would prove to be one of the wisest decisions the two had yet made.`,
@@ -33,6 +35,8 @@ const info = [
         maker: "Basim",
         name: "The Castle of Basim & Taha",
         location: "Main Island",
+        used:"Residency",
+        inside:"Basim & Taha",
 
         paragraphs: [
             `When Basim and Taha first reached the island after their great migration from the place of awakening, they established their camps upon the central hill. They did not yet know that this hill would become the heart of their kingdom. While Taha turned his attention toward the village and the means by which they would grow their wealth, Basim remained upon the hill and began his greatest work.`,

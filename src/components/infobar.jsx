@@ -9,6 +9,8 @@ function Infobar(){
             <h3>{obj.name}</h3>
             <p><b>Made by:</b> {obj.maker}</p>
             <p><b>Location: </b> {obj.location}</p>
+            <p><b>Used for: </b>{obj.used}</p>
+            <p><b>Dwellers: </b>{obj.inside}</p>
         </section>
     )
 }
