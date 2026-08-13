@@ -173,12 +173,13 @@ header p{
 /*sketch end*/
 /*charachter start*/
 .charachter-div{
-  margin-top: 5vh;
+  margin-top: 10vh;
   background: rgba(255, 255, 255,0.5);
   box-shadow: 5px 5px 20px rgba(0,0,0,0.4);
   width: 70%;
   border-radius: 10px;
   padding: 20px;
+  margin-bottom: 10vh;
 }
 .charachter-div h1{
   width: 100%;
