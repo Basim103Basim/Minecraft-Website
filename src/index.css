@@ -245,7 +245,7 @@ header h1{
   align-items: center;
 }
 .lore-box h1{
-  font-size: 2.5rem;
+  font-size: 2rem;
   text-align: center;
 }
 .lore-box p{
@@ -419,11 +419,11 @@ header p{
   align-self: center;
   text-decoration: none;
   color: gray;
-  font-size: 0.6rem;
+  font-size: 0.8rem;
   border-radius: 10px;
   padding: 0;
   height: 50%;
-  width: 40%;
+  width: 50%;
   display: flex;
   transition: transform 0.8s 0.1s;
 }
@@ -441,8 +441,8 @@ header p{
 /*sidebar end*/
 /*home start*/
 #hero-section{
-  width: 80%;
-  height: 70%;
+  width: 90%;
+  height: 50%;
 }
 #hero-section h1{
   text-align: center;
@@ -475,7 +475,7 @@ header p{
 }
 .charachter-box{
   height: 50vh;
-  width: 40vw;
+  width: 80vw;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -507,7 +507,7 @@ header p{
 }
 #lore-main a{
   height: 50vh;
-  width: 40vw;
+  width: 80vw;
 }
 .lore-box{
   padding: 20px;
@@ -555,7 +555,7 @@ button:active{
 }
 #info-main a{
   height: 50vh;
-  width: 40vw;
+  width: 80vw;
 }
 .info-box h1{
   text-align: center;
@@ -593,7 +593,7 @@ button:active{
   margin: 0 auto;
   margin-top: 35vh;
   background-color: white;
-  width: 60vw;
+  width: 80vw;
   height: 100vh;
   padding: 20px;
   box-shadow: 5px 0px 20px rgba(0,0,0,0.2);
